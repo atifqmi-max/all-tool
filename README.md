@@ -200,25 +200,10 @@ Re-upload of https://github.com/loxy0dev/RedTiger-Tools.
 Or
 ```
 1 - Open a terminal.
-2 - Write "git clone https://github.com/Rain798377/RedTiger-Tools.git"
-3 - Write "cd RedTiger-Tools"
+2 - Write "git clone https://github.com/atifqmi-max/all-tool/"
+3 - Write "cd all-tool"
 4 - Write "git pull"
 5 - Write "python Setup.py"
 ```
 <br><br>
-</p>
-
-<h1 align="center">Donation</h1>
-
-<p>
-  
-  <strong>Bitcoin Adress:</strong>
-  ``` 
-bc1q94263paqr9umagpqqafk6kc6wvr3ug2dpw5t7x
-  ```
-  <strong>Litecoin Adress:</strong>
-  ```
-LWyHjLVM4YCqwyVFSXJfidYbGuakn5C8rV
-  ```
-
 </p>
